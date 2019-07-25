@@ -12,6 +12,7 @@ public class TwoDArraysDeclareAndCreate_131 {
 		 */
 
 		// WRITE YOUR CODE HERE
+//		int[][] values = new int[2][3];
 		int[][] values = { {8,20,50}, 
 						   {12,30,75} };
 		
